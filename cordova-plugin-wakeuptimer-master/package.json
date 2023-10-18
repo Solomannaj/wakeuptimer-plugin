@@ -1,0 +1,12 @@
+{
+  "name": "cordova-plugin-alarmclock",
+  "version": "0.0.1",
+  "cordova": {
+    "id": "cordova-plugin-alarmclock",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}
+
